@@ -1,5 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/88606641/209963625-914f2b70-812c-4adb-b544-b3fb40c43e39.png)
-
 <h1 align="center">Hi there, I'm Manik Chaudhary 👋</h1>
 <h3 align="center">Cloud & AI Developer | ML Enthusiast | Passionate about building impactful software</h3>
 
@@ -10,9 +8,6 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/your_twitter" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a>
   <a href="https://www.linkedin.com/in/chaudharymanik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
