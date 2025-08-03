@@ -25,7 +25,7 @@
 
 - 🌱 Currently learning **AI frameworks, DevOps, and cloud architecture**  
 - 🤝 Open to collaborate on **community-driven or open-source projects**  
-- 👨🏻‍💻 Most of my projects live on [my GitHub repositories](https://github.com/manikchaudhary?tab=repositories)  
+- 👨🏻‍💻 Most of my projects live on [my GitHub repositories](https://github.com/chaudharymanik?tab=repositories)  
 - ✍️ Occasionally I write or share insights on tech  
 - 📫 Reach me: **maniksing873@gmail.com**
 
